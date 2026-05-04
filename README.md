@@ -1,2 +1,2 @@
 # StockPredictorAI
-Predicting whether to Buy or Sell stocks using AI
+Predicting whether to Buy, Hold or Sell stocks using AI
